@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project processes raw microarray data from the GEO dataset [GSE21942] (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE21942), which contains peripheral blood mononuclear cell (PBMC) expression profiles from 15 healthy controls and 12 multiple sclerosis (MS) patients.
+This project processes raw microarray data from the GEO dataset [GSE21942](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE21942), which contains peripheral blood mononuclear cell (PBMC) expression profiles from 15 healthy controls and 12 multiple sclerosis (MS) patients.
 
 The aim is to preprocess the raw Affymetrix CEL files, normalize the data, and prepare input files for Gene Set Enrichment Analysis (GSEA), including `.gct` and `.cls` files. The KEGG pathways gene sets can then be used for pathway enrichment analysis.
 
