@@ -11,7 +11,7 @@ The aim is to preprocess the raw Affymetrix CEL files, normalize the data, and p
 ## Data Description
 
 - **Dataset**: GSE21942  
-- **Platform**: GPL570 ([Affymetrix Human Genome U133 Plus 2.0 Array] (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL570))  
+- **Platform**: GPL570 [Affymetrix Human Genome U133 Plus 2.0 Array](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL570)  
 - **Samples**: 27 total (15 controls, 12 MS patients including technical replicates)  
 - **Raw data**: Affymetrix CEL files (compressed as `.CEL.gz` in `GSE21942_RAW.tar`)  
 
